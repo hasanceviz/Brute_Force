@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Brute_Force\obj\Debug\netcoreapp2.1\Brute_Force.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Brute_Force\obj\Debug\netcoreapp2.1\Brute_Force.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Brute_Force\obj\Debug\netcoreapp2.1\Brute_Force.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Brute_Force\obj\Debug\netcoreapp2.1\Brute_Force.AssemblyInfo.cs
+C:\Users\pc\source\repos\Brute_Force\bin\Debug\netcoreapp2.1\Brute_Force.deps.json
+C:\Users\pc\source\repos\Brute_Force\bin\Debug\netcoreapp2.1\Brute_Force.runtimeconfig.json
+C:\Users\pc\source\repos\Brute_Force\bin\Debug\netcoreapp2.1\Brute_Force.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Brute_Force\bin\Debug\netcoreapp2.1\Brute_Force.dll
+C:\Users\pc\source\repos\Brute_Force\bin\Debug\netcoreapp2.1\Brute_Force.pdb
+C:\Users\pc\source\repos\Brute_Force\obj\Debug\netcoreapp2.1\Brute_Force.dll
+C:\Users\pc\source\repos\Brute_Force\obj\Debug\netcoreapp2.1\Brute_Force.pdb
